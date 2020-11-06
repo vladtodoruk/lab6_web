@@ -1,0 +1,50 @@
+.block1{
+    background-image: url("fon1.png");
+    background-size: 70%;
+    background-repeat: no-repeat;
+    height: 800px;
+    margin-top: none;
+}
+.dale1{
+    background-image: url(dale1.png);
+    background-size:150px ;
+    background-repeat: no-repeat; 
+    background-position: 250px 180px;
+    height: 430px;
+}
+.gaika{
+    background-image: url(gaika.png);
+    background-size: 220px;
+    background-repeat: no-repeat; 
+    background-position: 270px 340px;
+    height: 680px;
+}
+.dale{
+    background-image: url(dale.png);
+    background-size: 200px;
+    background-repeat: no-repeat; 
+    background-position: 670px 340px;
+    height: 680px;
+}
+.chip{
+    background-image: url(chip.png);
+    background-size: 220px;
+    background-repeat: no-repeat; 
+    background-position: 820px 340px;
+    height: 692px;
+}
+.vzik{
+    background-image: url(vzik.png);
+    background-size: 100px;
+    background-repeat: no-repeat; 
+    background-position: 800px 550px;
+    height: 692px;
+}
+.rockfor{
+    background-image: url(rockfor.png);
+    background-size: 570px;
+    background-repeat: no-repeat; 
+    background-position: left 435px;
+    height: 800px;
+}
+
